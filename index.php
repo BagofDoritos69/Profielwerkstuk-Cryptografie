@@ -38,8 +38,6 @@ session_start();
           echo "'$key' is an invalid key (it needs to be 8 bits long)";
         }
       }
-
-    
     ?> 
   </body>
 </html>
